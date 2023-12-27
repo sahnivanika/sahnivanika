@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sahnivanika
 - 👀 I’m interested in reading and public speaking.
 - 🌱 I’m currently learning web development.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on some exciting projects.
 - 📫 How to reach me : vanikasahni05@gmail.com
 
 <!---
